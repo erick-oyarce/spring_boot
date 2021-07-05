@@ -15,7 +15,7 @@ public final class Multiplication {
 	private final int factorB;
 	// Empty constructor for JSON (de)serialization
 	Multiplication() {
-	this(0, 0);
+		this(0, 0);
 	}
 
 }
